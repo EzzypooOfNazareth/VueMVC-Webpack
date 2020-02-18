@@ -173,7 +173,7 @@
     <Content Include="vue-library\package-lock.json" />
     <Content Include="vue-library\package.json" />
     <Content Include="vue-library\src\App.vue" />
-    <Content Include="vue-library\src\components\HelloWorld.vue" />
+    <Content Include="vue-library\src\components\ProfileComponent.vue" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
